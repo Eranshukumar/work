@@ -1,0 +1,41 @@
+<html>
+    <head>
+            
+       
+       <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>  
+
+        <body>
+            <form ng-app="myApp" ng-controller="myCntrl"  name="fname" novalidate> 
+               <p> Enter your name: <input type="text" ng-model="name" name="name"required >
+                <span style="color: rgb(255, 0, 0)" ng-show="fname.name.$dirty && fname.name.$invalid">
+                    <span ng-show="fname.name.$error.required">
+                        Name is required.
+                    </span>
+                </span></p>
+            
+                <p>   Enter your Email: <input type="email" ng-model="email" name="email" required>
+               <span style="color: red"  ng-show="fname.email.$dirty && fname.email.$invalid" >
+                    <span ng-show="fname.email.$error.email">Enter valid Email </span>
+                        <span ng-show="fname.email.$error.required">Enter your Email</span>
+                       
+                    
+                </span></p>
+               <p><input type="submit"
+                ng-disabled="fname.name.$dirty && fname.name.$invalid ||  
+                fname.email.$dirty && fname.email.$invalid"></p> 
+            </form>
+        </body>
+    </head>
+</html>
+
+<script>
+var app=angular.module('myApp',[]);
+app.controller('myCntrl',function($scope)
+{
+   
+$scope.name='anshu';
+$scope.email='anshu@gmail.com';
+
+});
+
+</script>
