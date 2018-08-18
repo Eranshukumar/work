@@ -1,0 +1,22 @@
+<html>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+       
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
+<body style="background-color:rosybrown">
+<div ng-app="myApp" ng-controller="myCntrl">
+
+        <input type="text" ng-model="firstName">
+        <h1>My name is {{firstName}}</h1>
+        <p my name is ng-bind="firstName"></p>
+</div>
+        
+<script>
+    var app=angular.module('myApp',[]);
+    app.controller('myCntrl',function($scope){
+        $scope.firstName="johan";
+    });
+</script>
+
+
+    </body>
+</html>

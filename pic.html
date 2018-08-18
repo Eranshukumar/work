@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AngularJS File Upoad Example with $http and FormData</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.4/angular.min.js"></script>
+</head>
+
+<body ng-app="myApp">
+    <div ng-controller="myCntrl">
+
+        <input type="file" file-model="myFile"/>
+        <input type="button" ng-click="uploadFiles()" value="Upload" />
+    </div>
+</body>
+
+
+
+<script>
+    var app=angular.module('myApp',[]);
+app.directive('fileModel', ['$parse', function ($parse) {
+    return {
+        restrict: 'A',
+        link: function(scope, element, attrs) {
+            var model = $parse(attrs.fileModel);
+            var modelSetter = model.assign;
+
+            element.bind('change', function(){
+                scope.$apply(function(){
+                    modelSetter(scope, element[0].files[0]);
+                });
+            });
+        }
+    };
+}]);
+
+app.service('fileUpload', ['$http', function ($http) {
+    this.uploadFileToUrl = function(file, uploadUrl){
+        var fd = new FormData();
+        fd.append('file', file);
+        $http.post(uploadUrl, fd, {
+            transformRequest: angular.identity,
+            headers: {'Content-Type': undefined}
+        })
+        .success(function(){
+        })
+        .error(function(){
+        });
+    }
+}]);
+  
+app.controller('myCtrl', ['$scope', 'fileUpload', function($scope, fileUpload){
+            $scope.uploadFile = function(){
+
+var file = $scope.myFile;
+var uploadUrl = './upload/';
+fileUpload.uploadFileToUrl(file, uploadUrl);
+}
+}]);
+</script>
