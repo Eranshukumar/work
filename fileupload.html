@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <title>file upload</title>
+    </head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />  
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>  
+
+    <body>
+       <center><div ng-app="myApp" ng-controller="myCntrl" style="background-color: wheat">
+    <body>
+    <body>
+            <br><br><br><br>
+        <p>
+            <span style="color: purple">Upload Your image:<input type="file"  file-input="files"></span> 
+
+       </p><br><br>
+        <button  ng-click="uploadFile()">upload</button> <br><br>
+    </div></center> </body>
+    
+</html>
+<script>
+var app=angular.module('myApp',[]);
+app.directive("fileInput",function($parse)
+{
+return{
+    link:function($scope,element,attrs){
+        element.on("change",function(event)
+        {
+            var files=event.target.files;
+            $parse(attrs.fileInput).assign($scope,element[0].files);
+            $scope.$apply();
+
+        });
+    }
+}
+});
+app.controller("myCntrl",function($scope,$http){
+    $scope.uploadFile=function()
+    {
+        var form_data=new FormData();
+        angular.forEach($scope.files,function(file){
+            form_data.append('file',file);
+
+        });
+        $http.post('upload.php',form_data,
+        {
+            transformRequest:angular.identity,
+            headers:{'Content-Type':undefined,'Process-Data':false}
+        }).success(function(response){
+            alert(response);
+        });
+
+    }
+});
+</script>
