@@ -1,0 +1,148 @@
+[01-May-2018 16:04:54 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:04:54 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:04:54 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:04:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:04:54 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:04:54 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/logindata.php on line 11
+[01-May-2018 16:04:54 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:04:54 Etc/GMT] PHP Notice:  Undefined variable: password in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:05:08 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:05:08 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:05:08 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:05:08 Etc/GMT] PHP Notice:  Undefined variable: con in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:05:08 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:05:08 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/logindata.php on line 11
+[01-May-2018 16:05:08 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:05:08 Etc/GMT] PHP Notice:  Undefined variable: password in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:06:07 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:06:07 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:06:07 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:06:07 Etc/GMT] PHP Notice:  Undefined variable: con in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:06:07 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:06:07 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/logindata.php on line 11
+[01-May-2018 16:06:07 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:06:07 Etc/GMT] PHP Notice:  Undefined variable: password in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:06:31 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:06:31 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:06:31 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:06:31 Etc/GMT] PHP Notice:  Undefined variable: con in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:06:31 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:06:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/logindata.php on line 11
+[01-May-2018 16:06:31 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:06:31 Etc/GMT] PHP Notice:  Undefined variable: password in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:11:43 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:11:43 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:11:43 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:11:43 Etc/GMT] PHP Notice:  Undefined variable: con in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:11:43 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:11:43 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/logindata.php on line 11
+[01-May-2018 16:11:43 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:11:43 Etc/GMT] PHP Notice:  Undefined variable: password in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:12:59 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:12:59 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:12:59 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:12:59 Etc/GMT] PHP Notice:  Undefined variable: con in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:12:59 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:12:59 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/logindata.php on line 11
+[01-May-2018 16:12:59 Etc/GMT] PHP Notice:  Undefined variable: username in /home/deoholj2/public_html/admin/logindata.php on line 18
+[01-May-2018 16:13:51 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:13:51 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:13:51 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:13:51 Etc/GMT] PHP Notice:  Undefined variable: con in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:13:51 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:13:51 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/logindata.php on line 11
+[01-May-2018 16:13:51 Etc/GMT] PHP Notice:  Undefined variable: username in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:14:11 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:14:11 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:14:11 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:14:11 Etc/GMT] PHP Notice:  Undefined variable: con in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:14:11 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:14:11 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/logindata.php on line 11
+[01-May-2018 16:14:11 Etc/GMT] PHP Notice:  Undefined variable: username in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:16:08 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:16:08 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:16:08 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/logindata.php on line 2
+[01-May-2018 16:16:08 Etc/GMT] PHP Notice:  Undefined variable: con in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:16:08 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/deoholj2/public_html/admin/logindata.php on line 10
+[01-May-2018 16:16:08 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/logindata.php on line 11
+[01-May-2018 16:16:08 Etc/GMT] PHP Notice:  Undefined variable: username in /home/deoholj2/public_html/admin/logindata.php on line 19
+[01-May-2018 16:45:57 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[01-May-2018 16:46:01 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:46:01 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:46:01 Etc/GMT] PHP Fatal error:  require(): Failed opening required '..\connection.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:46:26 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:46:26 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:46:26 Etc/GMT] PHP Fatal error:  require(): Failed opening required '..\connection.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:46:33 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:46:33 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:46:33 Etc/GMT] PHP Fatal error:  require(): Failed opening required '..\connection.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:46:45 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:46:45 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:46:45 Etc/GMT] PHP Fatal error:  require(): Failed opening required '..\connection.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:47:07 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:47:07 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:47:07 Etc/GMT] PHP Fatal error:  require(): Failed opening required '..\connection.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:49:08 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:49:08 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:49:08 Etc/GMT] PHP Fatal error:  require(): Failed opening required '..\connection.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:49:33 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:49:33 Etc/GMT] PHP Warning:  require(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:49:33 Etc/GMT] PHP Fatal error:  require(): Failed opening required '..\connection.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/emplcon.php on line 3
+[01-May-2018 16:52:29 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/index.php on line 291
+[01-May-2018 16:52:29 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/index.php on line 291
+[01-May-2018 16:52:29 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/index.php on line 291
+[01-May-2018 16:52:29 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/index.php on line 424
+[01-May-2018 16:53:16 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/index.php on line 291
+[01-May-2018 16:53:16 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/index.php on line 291
+[01-May-2018 16:53:16 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/index.php on line 291
+[01-May-2018 16:53:16 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/index.php on line 424
+[01-May-2018 17:08:52 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/index.php on line 291
+[01-May-2018 17:08:52 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/index.php on line 291
+[01-May-2018 17:08:52 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/index.php on line 291
+[01-May-2018 17:08:52 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/index.php on line 424
+[01-May-2018 17:19:51 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/index.php on line 291
+[01-May-2018 17:19:51 Etc/GMT] PHP Warning:  include(..\connection.php): failed to open stream: No such file or directory in /home/deoholj2/public_html/admin/index.php on line 291
+[01-May-2018 17:19:51 Etc/GMT] PHP Warning:  include(): Failed opening '..\connection.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/deoholj2/public_html/admin/index.php on line 291
+[01-May-2018 17:19:51 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/index.php on line 424
+[01-May-2018 17:20:21 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/index.php on line 424
+[01-May-2018 17:21:52 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/index.php on line 424
+[01-May-2018 17:24:31 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/index.php on line 427
+[01-May-2018 17:25:21 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/comp_details.php on line 70
+[01-May-2018 17:26:38 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[01-May-2018 17:26:41 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/index.php on line 427
+[02-May-2018 12:02:31 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[02-May-2018 12:02:34 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/index.php on line 427
+[02-May-2018 16:32:48 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[02-May-2018 16:32:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/index.php on line 427
+[02-May-2018 16:35:33 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/index.php on line 427
+[03-May-2018 08:33:23 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[16-May-2018 13:11:48 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[16-May-2018 13:12:03 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[23-May-2018 06:39:10 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[23-May-2018 06:39:36 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[23-May-2018 10:47:10 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[23-May-2018 10:47:31 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[23-May-2018 10:47:50 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[25-May-2018 03:33:55 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[25-May-2018 04:09:19 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[25-May-2018 04:09:29 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[30-May-2018 12:10:23 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[31-May-2018 03:18:00 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[31-May-2018 03:18:14 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[31-May-2018 03:18:34 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[10-Jun-2018 07:02:10 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[12-Jun-2018 23:44:32 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[12-Jul-2018 12:37:49 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[12-Jul-2018 12:37:54 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[29-Jul-2018 14:53:08 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[03-Aug-2018 13:59:56 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[03-Aug-2018 14:00:09 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[04-Aug-2018 06:54:15 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[04-Aug-2018 06:56:50 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/emp_details.php on line 71
+[04-Aug-2018 06:57:49 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/deoholj2/public_html/admin/emp_details.php on line 71
+[04-Aug-2018 06:57:59 Etc/GMT] PHP Notice:  Undefined index: id in /home/deoholj2/public_html/admin/comp_status.php on line 6
+[11-Aug-2018 13:57:55 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[11-Aug-2018 15:39:33 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[11-Aug-2018 15:39:41 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[11-Aug-2018 15:39:45 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
+[13-Aug-2018 15:39:02 Etc/GMT] PHP Notice:  Undefined variable: userName in /home/deoholj2/public_html/admin/logindata.php on line 21
