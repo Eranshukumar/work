@@ -26,7 +26,7 @@
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<gcse:search></gcse:search>
+
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="0K1pNlyknDhW9mcBbv6seIc0QW2CrQhRHGyxXnPbmVM" />
@@ -62,7 +62,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-         <img src="images/logo1.png" width="50%"  ></img>
+         <img src="images/logo1.png" width="50%"  >
         </div>
 
         <div class="collapse navbar-collapse navbar-right">
