@@ -75,12 +75,12 @@ input[type=submit]:hover {
 </head>
 <body>
 
-<div style="border:2px solid gray;width:100%""><img src="images/instamojo.png"  width="225"></img> 
+<div style="border:2px solid gray;width:100%"><img src="images/instamojo.png"  width="225">
 
 <strong style="color:white;font-size:36px"><i>.......................................-------------</i></strong>
 <strong style="color:Green;font-size:36px"><i>Pay To Deo Home Services</i></strong>
 </div>
-<img src="images/logo.png" style="border:2px solid gray" width="200px"></img>
+<img src="images/logo.png" style="border:2px solid gray" width="200px">
 
 <div class="container" >
   <form action="process.php" method="POST">
@@ -142,7 +142,7 @@ input[type=submit]:hover {
 <br><br><br>
 
 
-<div style="border:2px solid gray;width:100%""><img src="images/insta.jpg" ></img> </div>
+<div style="border:2px solid gray;width:100%"><img src="images/insta.jpg" > </div>
 </body>
 </html>
 
