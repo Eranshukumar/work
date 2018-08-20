@@ -15,10 +15,7 @@
   <link href="css/style.css" rel="stylesheet">
   <link href="css/responsive.css" rel="stylesheet">
   <!-- =======================================================
-    Theme Name: Gp
-    Theme URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-templat/
-    Author: BootstrapMade
-    Author URL: https://bootstrapmade.com
+
   ======================================================= -->
 
 </head>
@@ -34,7 +31,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-         <img src="images/logo1.png" width="50%"  ></img>
+         <img src="images/logo1.png" width="50%">
         </div>
 
         <div class="collapse navbar-collapse navbar-right">
@@ -171,14 +168,9 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-6">
-          &copy; Gp Theme. All Rights Reserved.
+        
           <div class="credits">
-            <!--
-              All the links in the footer should remain intact.
-              You can delete the links only if you purchased the pro version.
-              Licensing information: https://bootstrapmade.com/license/
-              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Gp
-            -->
+            
             <a href="https://bootstrapmade.com/">Bootstrap Templates</a> by <a href="https://bootstrapmade.com/">BootstrapMade.com</a>
           </div>
         </div>
